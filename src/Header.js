@@ -1,4 +1,4 @@
-import logo from "./Troll Face.png";
+import logo from "./Troll-Face.png";
 import React from "react";
 import "./styles.css";
 
